@@ -18,3 +18,10 @@ f = int(input("Digite um segundo valor: "))
 multiplicação = e * f
 print(f"O resultado final da subtração é: {multiplicação}")
 
+#Divisão
+g = int(input("Digite um número para efetuar a divisão: "))
+h = int(input("Digite um segundo valor: "))
+divisão = g / h
+print(f"O resultado final da subtração é: {divisão}")
+
+
